@@ -1,3 +1,7 @@
+# обязательно наличие папки taski на удаленном сервере, с вложенным файлом .env
+# файл .env должен содержать:
+# DB_HOST=db
+# DB_PORT=5432
 name: Main Taski workflow
 
 on:
